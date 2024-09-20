@@ -1,14 +1,6 @@
 # Xiangyu Chen's Personal Portfolio ⚡️ 
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io.
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://github.com/LingLing40Hours/LingLing40Hours.github.io" target="_blank">
-  </a>
-  </kbd>
-</p>
-
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
