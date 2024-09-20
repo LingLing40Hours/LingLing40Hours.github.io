@@ -1,7 +1,10 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+> Xiangyu Chen's clean, beautiful, responsive portfolio template. This repo is a clone of
+https://github.com/varadbhogayata/varadbhogayata.github.io.
+![image](https://github.com/user-attachments/assets/c1d37ebd-3cb1-454e-bd91-72130cb232d0)
 
-> https://varadbhogayata.github.io
+
+> https://github.com/LingLing40Hours/LingLing40Hours.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
@@ -13,7 +16,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://github.com/LingLing40Hours/LingLing40Hours.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
