@@ -60,3 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 ## Activity 2
 ![screenshot](img/a2_1.png)
 ![screenshot](img/a2_2.png)
+
+## Activity 2
+![screenshot](img/a3_1.png)
+![screenshot](img/a3_2.png)
