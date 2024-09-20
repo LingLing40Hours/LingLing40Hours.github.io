@@ -1,5 +1,5 @@
 # Xiangyu Chen's Personal Portfolio ⚡️ 
-This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io.
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io. Furthermore, index.html contains AI-generated code (see references.txt).
 
 :star: Star me on GitHub — it helps!
 

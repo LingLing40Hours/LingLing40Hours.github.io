@@ -1,0 +1,4 @@
+Chat-GPT, chat.openai.com
+Date used: 9/20/2024
+Description: to generate HTML code
+Prompt: "rewrite [HTML] so that iframe embed is centered".

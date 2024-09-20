@@ -395,110 +395,13 @@
     <section id="projects" class="section scrollspy">
       <h3 class="page-title white-text teal">Projects</h3>
       <div class="container">
-
-          <!-- 1. Game Jam Project -->
-          <div class="col s12 m6 l6">
-            <div class="card medium">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img alt="gmtk game jam" src="/assets/img/gmtk2024_cover.png" style="height: 100%; width: 100%" class="activator" />
-              </div>
-              <div class="card-content">
-                <span class="card-title activator teal-text hoverline">GMTK2024 Game Jam Submission<i
-                    class="mdi-navigation-more-vert right"></i></span>
-                <p>
-                  A pixel art fish simulator, where the player takes advantage of plastic pollution to catch large prey.
-                </p>
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text"><small>Accomplishments</small><i
-                    class="mdi-navigation-close right"></i></span>
-                <ul>
-                  <li>Players can move fluidly using LMB + drag, and burst using RMB.</li>
-                  <li>Raise awareness on the severity of plastic pollution.</li>
-
-                </ul>
-                <div class="card-action">
-                  <a aria-label="Visit " href="https://waibibabow.itch.io/the-ultimate-fishs-guide-to-catching-fish-2024-edition" target="_blank" data-position="top"
-                    data-tooltip="View Online"
-                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-external-link"></i></a>
-                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/Parm345/gmtk2024"
-                    target="_blank" data-position="top" data-tooltip="View Source"
-                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-github"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- 1. Game Jam Project 2 -->
-          <div class="col s12 m6 l6">
-            <div class="card medium">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img alt="gmtk game jam" src="/assets/img/gmtk2023_cover.png" style="height: 100%; width: 100%" class="activator" />
-              </div>
-              <div class="card-content">
-                <span class="card-title activator teal-text hoverline">GMTK2023 Game Jam Submission<i
-                    class="mdi-navigation-more-vert right"></i></span>
-                <p>
-                  A not so generic gun shooter.
-                </p>
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text"><small>Accomplishments</small><i
-                    class="mdi-navigation-close right"></i></span>
-                <ul>
-
-                </ul>
-                <div class="card-action">
-                  <a aria-label="Visit " href="https://battlemonk345.itch.io/generic-gun-shooter" target="_blank" data-position="top"
-                    data-tooltip="View Online"
-                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-external-link"></i></a>
-                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/LingLing40Hours/gmtk2023"
-                    target="_blank" data-position="top" data-tooltip="View Source"
-                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-github"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- 1. Game Jam Project 3 -->
-          <div class="col s12 m6 l6">
-            <div class="card medium">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img alt="gmtk game jam" src="/assets/img/gmtk2022_cover.png" style="height: 100%; width: 100%" class="activator" />
-              </div>
-              <div class="card-content">
-                <span class="card-title activator teal-text hoverline">GMTK2022 Game Jam Submission<i
-                    class="mdi-navigation-more-vert right"></i></span>
-                <p>
-                  A 2D puzzle platformer.
-                </p>
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text"><small>Accomplishments</small><i
-                    class="mdi-navigation-close right"></i></span>
-                <ul>
-
-                </ul>
-                <div class="card-action">
-                  <a aria-label="Visit " href="https://battlemonk345.itch.io/slide-of-dice" target="_blank" data-position="top"
-                    data-tooltip="View Online"
-                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-external-link"></i></a>
-                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/Parm345/GMTK-2022"
-                    target="_blank" data-position="top" data-tooltip="View Source"
-                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-github"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- ************* -->
-        </div>
+        
+        <!-- New div to display recent projects -->
+        <div id="recent-projects" class="row"></div>
+    
+        <!-- Button to load more projects -->
+        <button id="load-more" class="btn waves-effect waves-light" style="margin: 20px auto; display: block;">Load More</button>
+    
       </div>
     </section>
 
@@ -674,6 +577,7 @@
     <section id="places_travelled" class="section scrollspy">
       <h3 class="page-title white-text teal">Places Travelled</h3>
       <div class="container">
+        <!-- The html code to center this embed on the page was suggested by Chat-GPT (see references.txts)-->
         <div style="display: flex; justify-content: center;">
           <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NsrHziV23TnG0SVTpWPVWDQ412lTuSY&ehbc=2E312F" width="640" height="480" frameborder="0" style="border:0;" allowfullscreen></iframe>
         </div>
@@ -710,6 +614,8 @@
       })
     })
   </script>
+
+  <script src="script.js"></script>
 </body>
 
 </html>
