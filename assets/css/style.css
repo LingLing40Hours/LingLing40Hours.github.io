@@ -59,7 +59,7 @@
 }
 
 .angellist {
-  color: grey;
+  color: #a8cc54;
 }
 
 .icon-btn:hover {
@@ -72,7 +72,7 @@
 }
 
 .angellist:hover {
-  background-color: grey;
+  background-color: #a8cc54;
 }
 
 .github:hover {
@@ -84,9 +84,9 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
-  color: #00796b;
-  border: 2px solid #fff;
+  background: #c19b50;
+  color: #b09e5e;
+  border: 2px solid #b6724e;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -104,8 +104,8 @@
   position: relative;
   padding: 11px 35px;
   background: none;
-  color: #fff;
-  border: 2px solid #fff;
+  color: #b6724e;
+  border: 2px solid #b6724e;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -116,15 +116,15 @@
 }
 
 .contactme:hover{
-  color: #00796b;
-  background-color: white;
+  color: #b6724e;
+  background-color: #ddda53;
 }
 /* main body */
 
 /* body-color */
 
 body {
-  color: #333;
+  color: #ddda53;
   font-size: 18px;
 }
 
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #ddda53;
 }
 
 /* main blockqoute */
@@ -155,8 +155,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #e3bd46;
+  color: #e3bd46;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -257,8 +257,8 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
+  background-color: #e3bd46;
+  border-bottom: 1px solid #e3bd46;
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;
@@ -270,12 +270,12 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #fafafa;
+  background-color: #e3bd46;
   border-left: 3px solid;
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: #e3bd46 !important;
 }
 
 li.logo span {
@@ -320,12 +320,12 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #b09e5e repeat;
   position: relative;
 }
 
 #intro.section .container {
-  color: white;
+  color: #b09e5e;
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -348,7 +348,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #b09e5e;
 }
 
 #intro.section .teal {
@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: #b09e5e;
   height: 100%;
   left: 0;
   position: absolute;
@@ -367,7 +367,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: #b09e5e;
 }
 
 .card {
@@ -383,12 +383,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
-  border-bottom: 2px solid #ffab40;
+  color: #b09e5e;
+  border-bottom: 2px solid #b09e5e;
 }
 
 .card li a:hover {
-  color: #333;
+  color: #b09e5e;
   font-weight: 500;
 }
 
@@ -414,7 +414,7 @@ h3 {
 }
 
 #experience .card-action {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: #b09e5e;
   border: none;
 }
 
@@ -428,7 +428,7 @@ h3 {
 
 .card-action span {
   font-size: 85%;
-  color: #666;
+  color: #b09e5e;
 }
 
 .card ul {
@@ -442,7 +442,7 @@ h3 {
 }
 
 .card ul li li {
-  color: #666;
+  color: #b09e5e;
   font-size: 13px;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #b09e5e !important;
 }
 
 #skills .card.large {
@@ -481,7 +481,7 @@ a.hoverline:hover {
 }
 
 #skills h4 {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #b09e5e;
   margin-bottom: 30px;
   padding-bottom: 20px;
 }
@@ -502,7 +502,7 @@ a.hoverline:hover {
 }
 
 #experience .card-content .row {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #b09e5e;
   padding-bottom: 10px;
 }
 
@@ -543,13 +543,13 @@ small {
 }
 
 .grey-text {
-  color: #666 !important;
+  color: #b09e5e !important;
 }
 
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #b09e5e !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #b09e5e !important;
 }
 
 /* .teal {
@@ -597,12 +597,12 @@ small {
     width: 100%;
   }
   nav {
-    background: #fff;
+    background: #b09e5e;
     height: 64px;
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #b09e5e;
     height: 56px;
     line-height: 56px;
   }
