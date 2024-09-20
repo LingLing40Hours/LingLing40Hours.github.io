@@ -1,7 +1,6 @@
 # Personal Portfolio ⚡️ 
 > Xiangyu Chen's clean, beautiful, responsive portfolio template. This repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io.
-![image](https://github.com/user-attachments/assets/c1d37ebd-3cb1-454e-bd91-72130cb232d0)
 
 
 > https://github.com/LingLing40Hours/LingLing40Hours.github.io
